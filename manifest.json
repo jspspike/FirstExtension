@@ -1,0 +1,11 @@
+{
+	"name": "Test",
+	"version": "1.0",
+	"description": "Just trying out how to make a chrome extension",
+	"manifest_version": 2,
+
+	"browser_action": {
+		"default_icon": "icon.png",
+		"default_popup": "test.html"
+	}
+}
